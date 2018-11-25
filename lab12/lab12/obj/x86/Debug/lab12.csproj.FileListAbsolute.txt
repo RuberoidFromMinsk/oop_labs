@@ -1,0 +1,6 @@
+/home/andrew/Projects/lab12/lab12/bin/Debug/lab12.exe
+/home/andrew/Projects/lab12/lab12/bin/Debug/lab12.pdb
+/home/andrew/Projects/lab12/lab12/obj/x86/Debug/lab12.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/lab12/lab12/obj/x86/Debug/lab12.exe
+/home/andrew/Projects/lab12/lab12/obj/x86/Debug/lab12.pdb
+/home/andrew/Projects/lab12/lab12/obj/x86/Debug/lab12.csprojAssemblyReference.cache

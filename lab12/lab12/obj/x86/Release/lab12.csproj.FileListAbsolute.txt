@@ -1,0 +1,3 @@
+/home/andrew/Projects/lab12/lab12/bin/Release/lab12.exe
+/home/andrew/Projects/lab12/lab12/obj/x86/Release/lab12.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/lab12/lab12/obj/x86/Release/lab12.exe
