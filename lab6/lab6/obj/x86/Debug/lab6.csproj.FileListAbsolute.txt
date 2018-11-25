@@ -1,0 +1,6 @@
+/home/andrew/Projects/lab6/lab6/obj/x86/Debug/lab6.csprojResolveAssemblyReference.cache
+/home/andrew/Projects/lab6/lab6/obj/x86/Debug/lab6.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/lab6/lab6/bin/Debug/lab6.exe
+/home/andrew/Projects/lab6/lab6/bin/Debug/lab6.pdb
+/home/andrew/Projects/lab6/lab6/obj/x86/Debug/lab6.exe
+/home/andrew/Projects/lab6/lab6/obj/x86/Debug/lab6.pdb

@@ -1,0 +1,6 @@
+/home/andrew/Projects/lab4new/lab4new/bin/Debug/lab4new.exe
+/home/andrew/Projects/lab4new/lab4new/bin/Debug/lab4new.pdb
+/home/andrew/Projects/lab4new/lab4new/obj/x86/Debug/lab4new.csprojResolveAssemblyReference.cache
+/home/andrew/Projects/lab4new/lab4new/obj/x86/Debug/lab4new.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/lab4new/lab4new/obj/x86/Debug/lab4new.exe
+/home/andrew/Projects/lab4new/lab4new/obj/x86/Debug/lab4new.pdb

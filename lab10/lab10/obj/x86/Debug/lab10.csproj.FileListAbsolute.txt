@@ -1,0 +1,6 @@
+/home/andrew/Projects/lab10/lab10/bin/Debug/lab10.exe
+/home/andrew/Projects/lab10/lab10/bin/Debug/lab10.pdb
+/home/andrew/Projects/lab10/lab10/obj/x86/Debug/lab10.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/lab10/lab10/obj/x86/Debug/lab10.exe
+/home/andrew/Projects/lab10/lab10/obj/x86/Debug/lab10.pdb
+/home/andrew/Projects/lab10/lab10/obj/x86/Debug/lab10.csprojAssemblyReference.cache

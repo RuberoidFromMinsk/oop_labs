@@ -1,0 +1,6 @@
+/home/andrew/Projects/lab9fix/lab9fix/bin/Debug/lab9fix.exe
+/home/andrew/Projects/lab9fix/lab9fix/bin/Debug/lab9fix.pdb
+/home/andrew/Projects/lab9fix/lab9fix/obj/x86/Debug/lab9fix.csprojResolveAssemblyReference.cache
+/home/andrew/Projects/lab9fix/lab9fix/obj/x86/Debug/lab9fix.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/lab9fix/lab9fix/obj/x86/Debug/lab9fix.exe
+/home/andrew/Projects/lab9fix/lab9fix/obj/x86/Debug/lab9fix.pdb

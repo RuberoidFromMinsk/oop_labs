@@ -1,0 +1,6 @@
+/home/andrew/Projects/lab3/lab3/bin/Debug/lab3.exe
+/home/andrew/Projects/lab3/lab3/bin/Debug/lab3.pdb
+/home/andrew/Projects/lab3/lab3/obj/x86/Debug/lab3.csprojResolveAssemblyReference.cache
+/home/andrew/Projects/lab3/lab3/obj/x86/Debug/lab3.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/lab3/lab3/obj/x86/Debug/lab3.exe
+/home/andrew/Projects/lab3/lab3/obj/x86/Debug/lab3.pdb
