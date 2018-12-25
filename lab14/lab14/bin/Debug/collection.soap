@@ -1,0 +1,18 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:PassangerPlane[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab14/lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+</SOAP-ENC:Array>
+<a1:PassangerPlane id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab14/lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<passangerCapacity>100</passangerCapacity>
+<_name id="ref-5">Airbus</_name>
+<Aviation_x002B__name href="#ref-5"/>
+</a1:PassangerPlane>
+<a1:PassangerPlane id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab14/lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<passangerCapacity>1450</passangerCapacity>
+<_name id="ref-6">Plane2</_name>
+<Aviation_x002B__name href="#ref-6"/>
+</a1:PassangerPlane>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

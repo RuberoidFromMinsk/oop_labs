@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buttons>
+  <button title="first button">
+    <count>1</count>
+  </button>
+  <button title="second button">
+    <count>3</count>
+  </button>
+  <button title="third button">
+    <count>5</count>
+  </button>
+  <button title="fourth button">
+    <count>3</count>
+  </button>
+</buttons>
