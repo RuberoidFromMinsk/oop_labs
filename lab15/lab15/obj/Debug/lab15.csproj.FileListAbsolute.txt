@@ -1,0 +1,6 @@
+C:\Users\Andrej\source\repos\lab15\lab15\bin\Debug\lab15.exe
+C:\Users\Andrej\source\repos\lab15\lab15\bin\Debug\lab15.pdb
+C:\Users\Andrej\source\repos\lab15\lab15\obj\Debug\lab15.csprojResolveAssemblyReference.cache
+C:\Users\Andrej\source\repos\lab15\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+C:\Users\Andrej\source\repos\lab15\lab15\obj\Debug\lab15.exe
+C:\Users\Andrej\source\repos\lab15\lab15\obj\Debug\lab15.pdb
